@@ -5,7 +5,7 @@
 ## 1. 安装docker
 
 ```sh
-git clone https://github.com/brighill/registry-mirror.git
+git clone https://github.com/shiquan1988/registry-mirror.git
 cd registry-mirror
 ./get-docker.sh --mirror Aliyun
 ```
