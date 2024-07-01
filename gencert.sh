@@ -6,6 +6,7 @@ if ! command -v openssl &>/dev/null; then
     exit 1
 fi
 
+#Kingsoft
 read -s -p "设置 CA 密码：" password
 echo ""
 
